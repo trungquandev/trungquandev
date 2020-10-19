@@ -13,6 +13,8 @@
 * Backend: [![NodeJS: trungquandev](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/trungquandev)
 * Frontend: [![ReactJS: trungquandev](https://img.shields.io/badge/ReactJS-61dafb?style=flat-square&logo=react&logoColor=black)](https://github.com/trungquandev)
 
+[<img align="right" src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192" width="72px" />](https://trungquandev.com)
+
 <hr>
 
 <img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
