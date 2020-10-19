@@ -8,7 +8,7 @@
 
 [![Linkedin: trungquandev](https://img.shields.io/badge/I'm%20not%20seeking%20to%20change%20jobs-blue?label=Linkedin&style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trungquandev/)
 
-:arrow_right: Main skills: [![Main skill: trungquandev](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/trungquandev)
+:arrow_right: Main skills: [![Main skill: trungquandev](https://img.shields.io/badge/javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black)](https://github.com/trungquandev)
 
 * Backend: NodeJS
 * Frontend: ReactJS
