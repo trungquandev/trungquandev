@@ -8,7 +8,11 @@
 
 [![Linkedin: trungquandev](https://img.shields.io/badge/I'm%20not%20seeking%20to%20change%20jobs-blue?label=Linkedin&style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trungquandev/)
 
-![funny-gif-trungquandev](https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif)
+:arrow_right: Main skills: [![Main skill: trungquandev](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)]
+
+* Backend: NodeJS
+* Frontend: ReactJS
+
 <img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="50%">
 
 [![Signature](https://img.shields.io/badge/Signature-trungquandev.com-brightgreen)](https://trungquandev.com)
