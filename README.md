@@ -21,6 +21,8 @@
 </details>
 
 ---
+<br>
+<hr>
 
 <img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
 
