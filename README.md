@@ -13,18 +13,16 @@
 * Backend: [![NodeJS: trungquandev](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/trungquandev)
 * Frontend: [![ReactJS: trungquandev](https://img.shields.io/badge/react-61dafb?style=flat-square&logo=react&logoColor=black)](https://github.com/trungquandev)
 
+<hr>
+
+<img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
+
 <details open="true">
   <summary>:memo: Github Stats </summary>
   <br />
   <img align="left" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev" />
   <img align="right" alt="trungquandev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=gradient" />
-</details>
-
-<hr>
-
-<div>
-  <img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
-</div>
+</details>  
 
 [![Signature](https://img.shields.io/badge/Signature-trungquandev.com-brightgreen)](https://trungquandev.com)
 
