@@ -18,12 +18,13 @@
   <br />
   <img align="left" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev" />
   <img align="right" alt="trungquandev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=gradient" />
-  <div style="height:50px;">&nbsp;</div>
 </details>
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
+<div>
+  <img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
+</div>
 
 [![Signature](https://img.shields.io/badge/Signature-trungquandev.com-brightgreen)](https://trungquandev.com)
 
