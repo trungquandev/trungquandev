@@ -26,7 +26,7 @@
 
   <br />
 
-  <img src="https://github.com/trungquandev/trungquandev/blob/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192">
+  <img align="right" src="https://github.com/trungquandev/trungquandev/blob/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192" width="50%">
 </details>  
 
 <!-- [![Signature](https://img.shields.io/badge/Signature-trungquandev.com-brightgreen)](https://trungquandev.com) -->
