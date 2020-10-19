@@ -22,10 +22,10 @@
   <br />
   <img align="left" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev" />
 
-  <img align="right" alt="trungquandev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=gradient" style="margin-bottom: 5rem;" />
+  <img align="right" alt="trungquandev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=gradient" />
   <br />
 
-  [<img align="right" src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192" width="72px" style="margin-top: 5rem;" />](https://trungquandev.com)
+  [<img align="right" src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192" width="72px" />](https://trungquandev.com)
   <br />
 
   <!-- [<img align="right" src="https://img.shields.io/badge/Signature-trungquandev.com-brightgreen" alt="trungquandev-signature" style="margin-top: 1.5rem;">](https://trungquandev.com) -->
