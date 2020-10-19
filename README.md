@@ -24,6 +24,7 @@
 
   <img align="right" alt="trungquandev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=gradient" />
   <br />
+  <p style="margin-top: 5rem;>&nbsp;</p>
 
   [<img align="right" src="https://github.com/trungquandev/trungquandev/blob/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192" width="72px" style="margin-top: 0rem;">](https://trungquandev.com)
   <br />
