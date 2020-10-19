@@ -26,9 +26,9 @@
 
   <br />
 
-  [![Signature](https://img.shields.io/badge/Signature-trungquandev.com-brightgreen)](https://trungquandev.com)
+  [<img align="right" src="https://img.shields.io/badge/Signature-trungquandev.com-brightgreen" alt="trungquandev-signature" style="margin-top: 3rem;">](https://trungquandev.com)
 
-  [<img align="right" src="https://github.com/trungquandev/trungquandev/blob/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192" width="72px" style=""margin-top: 3rem;>](https://trungquandev.com)
+  [<img align="right" src="https://github.com/trungquandev/trungquandev/blob/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192" width="72px" style="margin-top: 3rem;">](https://trungquandev.com)
 </details>  
 
 <!--
