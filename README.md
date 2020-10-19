@@ -22,11 +22,10 @@
   <br />
   <img align="left" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev" />
   <img align="right" alt="trungquandev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=gradient" />
+  <img align="right" alt="trungquandev's signature" src="https://img.shields.io/badge/Signature-trungquandev.com-brightgreen" />
 </details>  
 
-[![Signature](https://img.shields.io/badge/Signature-trungquandev.com-brightgreen)](https://trungquandev.com)
-
-
+<!-- [![Signature](https://img.shields.io/badge/Signature-trungquandev.com-brightgreen)](https://trungquandev.com) -->
 <!--
 **trungquandev/trungquandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
