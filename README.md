@@ -21,9 +21,12 @@
   <summary>:memo: Github Stats </summary>
   <br />
   <img align="left" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev" />
+
   <img align="right" alt="trungquandev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=gradient" />
+
   <br />
-  <img align="right" alt="trungquandev's signature" src="https://trungquandev.com/wp-content/uploads/2016/11/LOGO.png" />
+
+  <img src="https://github.com/trungquandev/trungquandev/blob/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192">
 </details>  
 
 <!-- [![Signature](https://img.shields.io/badge/Signature-trungquandev.com-brightgreen)](https://trungquandev.com) -->
