@@ -26,10 +26,11 @@
 
   <br />
 
-  [<img align="right" src="https://github.com/trungquandev/trungquandev/blob/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192" width="92px">](https://trungquandev.com)
+  [![Signature](https://img.shields.io/badge/Signature-trungquandev.com-brightgreen)](https://trungquandev.com)
+
+  [<img align="right" src="https://github.com/trungquandev/trungquandev/blob/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192" width="72px" style=""margin-top: 3rem;>](https://trungquandev.com)
 </details>  
 
-<!-- [![Signature](https://img.shields.io/badge/Signature-trungquandev.com-brightgreen)](https://trungquandev.com) -->
 <!--
 **trungquandev/trungquandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
