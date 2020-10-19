@@ -15,13 +15,11 @@
 
 <details open="true">
   <summary>:memo: Github Stats </summary>
-  <img align="left" alt="hoangdv's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev" />
-  <img align="right" alt="hoangdv's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=gradient" />
-  <p></p>
+  <img align="left" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev" />
+  <img align="right" alt="trungquandev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=gradient" />
+  <br><br>
 </details>
 
----
-<br>
 <hr>
 
 <img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
