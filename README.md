@@ -4,7 +4,7 @@
 
 [![CV Online](https://img.shields.io/website?&label=cv.trungquandev.com&style=flat-square&logo=ghostery&logoColor=white&up_message=Online&url=https%3A%2F%2Fcv.trungquandev.com)](https://cv.trungquandev.com)
 
-[![Facebook: trungquandev](https://img.shields.io/website?&label=facebook&style=flat-square&logo=facebook&logoColor=white&up_message=Online&url=https%3A%2F%2Ffacebook.com/trungquandev)](https://www.facebook.com/trungquandev/)
+[![Facebook: trungquandev](https://img.shields.io/website?&label=Facebook&style=flat-square&logo=facebook&logoColor=white&up_message=Online&url=https%3A%2F%2Ffacebook.com/trungquandev)](https://www.facebook.com/trungquandev/)
 
 [![Linkedin: trungquandev](https://img.shields.io/badge/I'm%20not%20seeking%20to%20change%20jobs-blue?label=Linkedin&style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trungquandev/)
 
@@ -13,9 +13,15 @@
 * Backend: [![NodeJS: trungquandev](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/trungquandev)
 * Frontend: [![ReactJS: trungquandev](https://img.shields.io/badge/react-61dafb?style=flat-square&logo=react&logoColor=black)](https://github.com/trungquandev)
 
+<details>
+  <summary>:memo: Github Stats </summary>
+  <img align="left" alt="hoangdv's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev" />
+  <img align="right" alt="hoangdv's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=gradient" />
+</details>
+
 ---
 
-<img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="50%">
+<img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
 
 [![Signature](https://img.shields.io/badge/Signature-trungquandev.com-brightgreen)](https://trungquandev.com)
 
