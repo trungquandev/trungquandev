@@ -20,9 +20,9 @@
 <details open="true">
   <summary>:memo: Github Stats </summary>
   <br />
-  <img align="left" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev" />
+  <img align="left" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&theme=solarized-light" />
 
-  <img align="right" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=gradient" />
+  <img align="right" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=solarized-light" />
   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
   [<img align="right" src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192" width="72px" />](https://trungquandev.com)
