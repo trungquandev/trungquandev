@@ -31,9 +31,11 @@
   <!-- [<img align="right" src="https://img.shields.io/badge/Signature-trungquandev.com-brightgreen" alt="trungquandev-signature" style="margin-top: 1.5rem;">](https://trungquandev.com) -->
 </details>
 
+<hr>
+
 <div align="center">
   <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" width="100" alt="trungquandev-facebook" />
   </a>
 </div>
 
