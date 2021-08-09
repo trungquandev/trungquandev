@@ -31,6 +31,12 @@
   <!-- [<img align="right" src="https://img.shields.io/badge/Signature-trungquandev.com-brightgreen" alt="trungquandev-signature" style="margin-top: 1.5rem;">](https://trungquandev.com) -->
 </details>
 
+<div align="center">
+  <a href="https://facebook.com/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="trungquandev-facebook" />
+  </a>
+</div>
+
 <!--
 **trungquandev/trungquandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
