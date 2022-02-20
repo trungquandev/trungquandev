@@ -1,6 +1,6 @@
 ### Hi there, I'm Quan - aka trungquandev 👋
 
-<a href="https://trungquandev.com" target="blank">
+<a href="https://trungquandev.com" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" height="750" alt="Click to see the source" />
 </a>
 
