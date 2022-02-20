@@ -1,5 +1,5 @@
 ### Hi there, I'm Quan - aka trungquandev 👋
-<div style="color: red;">Trungquandev</div>
+<img src="svg/trungquandev.svg" width="1200" height="750" alt="Click to see the source" />
 
 [![Website](https://img.shields.io/website?down_message=Offline&label=trungquandev.com&style=flat-square&logo=google-chrome&logoColor=white&up_message=Online&url=https%3A%2F%2Ftrungquandev.com)](https://trungquandev.com)
 
