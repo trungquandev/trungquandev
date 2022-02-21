@@ -91,9 +91,9 @@
 <h2 align="center">Quote</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
-<p align="center">
+<div align="right">
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
-</p>
+</div>
 
