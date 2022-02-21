@@ -71,8 +71,8 @@
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=trungquandev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
 
-<hr>
-
+<h2 align="center">🔍 Where to find me 🔍</h2>
+<br>
 <div align="center">
   <a href="https://facebook.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
