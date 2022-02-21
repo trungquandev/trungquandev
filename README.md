@@ -1,23 +1,6 @@
-### Hi there, I'm Quan - aka trungquandev 👋
-
 <!-- <a href="https://trungquandev.com" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" height="750" alt="Click to see the source" />
 </a> -->
-
-[![Website](https://img.shields.io/website?down_message=Offline&label=trungquandev.com&style=flat-square&logo=google-chrome&logoColor=white&up_message=Online&url=https%3A%2F%2Ftrungquandev.com)](https://trungquandev.com)
-
-[![CV Online](https://img.shields.io/website?&label=cv.trungquandev.com&style=flat-square&logo=ghostery&logoColor=white&up_message=Online&url=https%3A%2F%2Fcv.trungquandev.com)](https://cv.trungquandev.com)
-
-[![Facebook: trungquandev](https://img.shields.io/website?&label=Facebook&style=flat-square&logo=facebook&logoColor=white&up_message=Online&url=https%3A%2F%2Ffacebook.com/trungquandev)](https://www.facebook.com/trungquandev/)
-
-[![Linkedin: trungquandev](https://img.shields.io/badge/I'm%20not%20seeking%20to%20change%20jobs-blue?label=Linkedin&style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trungquandev/)
-
-:arrow_right: Main skills: [![Main skill: trungquandev](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black)](https://github.com/trungquandev)
-
-* Backend: [![NodeJS: trungquandev](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/trungquandev)
-* Frontend: [![ReactJS: trungquandev](https://img.shields.io/badge/ReactJS-61dafb?style=flat-square&logo=react&logoColor=black)](https://github.com/trungquandev)
-
-<br>
 
 <h2 align="center">🛠 Technologies and tools 🛠</h2>
 <br>
@@ -63,23 +46,21 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
-<br><br>
+<br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <div align=center>
-    <a href="#" title="Trungquandev">
-      <img width="310" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-    <a href="#" title="Trungquandev">
-      <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
+  <a href="#" title="Trungquandev">
+    <img width="310" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="Trungquandev">
+    <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
 </div>
 
-<br><br>
+<br>
 
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
