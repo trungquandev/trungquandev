@@ -68,8 +68,8 @@
           gap: 7px;
         }
         .skills_icon>img {
-          width: 77px;
-          height: 77px;
+          width: 80px;
+          height: 80px;
         }
 
         .only_nodejs_skill {
