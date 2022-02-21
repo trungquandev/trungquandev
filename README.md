@@ -30,26 +30,8 @@
 
   <img align="right" alt="trungquandev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 
-  <br/>
+  <br/><br /><br /><br />
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<hr>
-
-<!-- <img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%"> -->
-
-<details open="true">
-  <summary>:memo: Github Stats </summary>
-  <br />
-  <img align="left" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&theme=solarized-light" />
-
-  <img align="right" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true&theme=solarized-light" />
-  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-  [<img align="right" src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/logo-trungquandev-transparent-bg-192x192.png" alt="logo-trungquandev-192x192" width="72px" />](https://trungquandev.com)
-  <br />
-
-  <!-- [<img align="right" src="https://img.shields.io/badge/Signature-trungquandev.com-brightgreen" alt="trungquandev-signature" style="margin-top: 1.5rem;">](https://trungquandev.com) -->
 </details>
 
 <br /><br /><br />
