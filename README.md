@@ -1,6 +1,6 @@
-<!-- <a href="https://trungquandev.com" target="_blank">
+<a href="https://trungquandev.com" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" height="750" alt="Click to see the source" />
-</a> -->
+</a>
 
 <h2 align="center">🛠 Technologies and tools 🛠</h2>
 <br>
