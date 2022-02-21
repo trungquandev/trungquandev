@@ -19,6 +19,23 @@
 
 <hr>
 
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="trungquandev's Github Stats" src="https://trungquandev-github-readme-stats.vercel.app/api/?username=trungquandev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="trungquandev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="trungquandev's Activity Graph" src="https://trungquandev-activity-graph.herokuapp.com/graph/?username=trungquandev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<hr>
+
 <img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
 
 <details open="true">
