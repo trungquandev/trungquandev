@@ -26,9 +26,9 @@
 <details>
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-  <a href="#"><img alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=trungquandev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <img align="left" alt="trungquandev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=trungquandev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-  <a href="#"><img alt="trungquandev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <img align="right" alt="trungquandev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -36,7 +36,7 @@
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
+<!-- <img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%"> -->
 
 <details open="true">
   <summary>:memo: Github Stats </summary>
