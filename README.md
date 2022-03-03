@@ -89,7 +89,7 @@
 
 <br>
 
-<h2 align="center">📑 Random Quotes 📑</h2>
+<h2 align="center">📑 Random DEV Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
