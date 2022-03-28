@@ -1,0 +1,38 @@
+<svg fill="none" viewBox="0 0 1200 750" width="1200" height="750" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 150px;
+          background-color: #20232A;
+					border-radius: 10px;
+					color: white;
+          position: relative;
+          line-height: 1.6;
+				}
+        .quotes-eng {
+          font-size: 16px;
+        }
+        .quotes-vi {
+          font-size: 16px;
+        }
+        .trungquandev-signature {
+          font-size: 15px;
+        }
+			</style>
+
+			<div class="container">
+        <div class="quotes-eng">"After a day! We've learned something new? Or become a copy of yesterday?"</div>
+        <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay trở thành bản sao của ngày hôm qua?"</div>
+        <div class="trungquandev-signature">-Trungquandev Official-</div>
+      </div>
+		</div>
+	</foreignObject>
+</svg>

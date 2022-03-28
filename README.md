@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
+  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -89,12 +89,9 @@
 
 <br>
 
-<h2 align="center">📑 Random DEV Quotes 📑</h2>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
-
-</div>
+<a href="#" target="_blank">
+  <img src="svg/trungquandev-quotes.svg" width="1200" alt="trungquandev-official" />
+</a>
 
