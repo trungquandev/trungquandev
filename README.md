@@ -48,7 +48,6 @@
 &nbsp;
 
 <br>
-
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
@@ -62,7 +61,6 @@
 </div>
 
 <br>
-
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
@@ -89,6 +87,15 @@
 
 <br>
 
+<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<br>
+<p>Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB).</p>
+<p>Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình làm lập trình viên trong tương lai nhé.</p>
+<a href="https://youtu.be/63opfUkPq6k" target="_blank">
+  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
+</a>
+
+<br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
