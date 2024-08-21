@@ -66,7 +66,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://trungquandev.com" target="blank">
-    <img width="80" height="80" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a>
   <a href="https://facebook.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
