@@ -102,7 +102,7 @@
   <strong>🔗 Bài viết chi tiết trên blog: <a href="https://trungquandev.com/khoa-hoc-lap-trinh-mern-stack-100-du-an-thuc-te-chat-luong" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv</a></strong>
   <br><br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br><br>
+  <br>
   <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
 </p>
 <a href="https://youtube.com/@trungquandev" target="_blank">
