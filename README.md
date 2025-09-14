@@ -99,7 +99,7 @@
 <p>
   <strong>🔗 Video giới thiệu chi tiết: <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">Demo & Review toàn bộ khóa Full Stack MERN Advanced | Học lập trình thực tế để đi làm | TrungQuanDev</a></strong>
   <br><br>
-  <strong>🔗 Bài viết chi tiết trên blog: <a href="https://trungquandev.com/khoa-hoc-lap-trinh-mern-stack-100-du-an-thuc-te-chat-luong" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv</a></strong>
+  <strong>🔗 Bài viết chi tiết trên blog: <a href="https://trungquandev.com/khoa-hoc-lap-trinh-full-stack-mern-100-du-an-thuc-te-chat-luong/" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv</a></strong>
   <br><br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
   <br>
